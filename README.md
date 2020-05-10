@@ -1,2 +1,2 @@
 # time-converter
-A script that converts time
+Use this to convert seconds, minutes, hours, days, and years to each other.
